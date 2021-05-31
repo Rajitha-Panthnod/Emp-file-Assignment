@@ -1,0 +1,24 @@
+__
+Name is :rajitha
+Age is :21
+Sal is :3000
+Desig is :Clerk
+__
+__
+Name is :rajitha
+Age is :23
+Sal is :4000
+Desig is :Manager
+__
+__
+Name is :rajitha
+Age is :20
+Sal is :3000
+Desig is :Clerk
+__
+__
+Name is :rajitha
+Age is :20
+Sal is :3000
+Desig is :Clerk
+__
